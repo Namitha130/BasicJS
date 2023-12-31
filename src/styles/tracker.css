@@ -1,0 +1,36 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    
+    margin-top: 20px;
+}
+tbody tr td{
+    padding: 10px;
+}
+
+#del{
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+}
+thead {
+   background-color: white;
+   position: sticky;
+   top: 0px 4px;
+}
+
+form>input{
+    width: 100px;
+    height: 20px;
+    margin: 5px 15px;
+    border: 2px solid black;
+}
+
+form input[type ="submit"]
+{
+    color: white;
+    background-color: green;
+    border: transparent;
+    width: 80px;
+    height: 25px;
+}

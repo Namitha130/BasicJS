@@ -1,0 +1,45 @@
+/* .input-box
+{
+ 
+   
+  width: 350px;
+  height: 200px;
+  padding: 40px; 
+  position: relative;
+  border: 1px solid black;
+}
+input{
+  width: 90%;
+  height: 40px;
+  border: 3px solid black;
+  border-radius: 5px;
+  display: block;
+}
+
+input:focus{
+  border: 2px rgba(33, 237, 18, 0.918) solid;
+  border-radius: 5px;
+  outline: none;
+}
+
+span{
+  color: black;
+  background-color: white;
+  position: absolute;
+  top: 50px;
+  left : 50px;
+}
+ 
+.input-box input:focus ~ span{
+  color: rgb(125, 249, 67);
+  top: 28.5px;
+  left : 35px;
+  transition: 0.3s linear;
+  transform: scale(0.7);
+   font-size: 25px;
+}
+
+button{
+  display: block;
+  margin-top: 8px;
+} */
